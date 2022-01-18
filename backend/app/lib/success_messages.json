@@ -1,0 +1,10 @@
+{
+	"TESTIMONIAL_LOGGED_IN": "Testimonial Logged In Successfully",
+	"TESTIMONIAL_ADDED" : "Testimonial Registered Successfully",
+	"GET_TESTIMONIAL_LIST_SUCCESS": "Get Testimonial List Successfully",
+	"TESTIMONIAL_DETAIL_UPDATED": "Testimonial Detail Updated Successfully",
+	"TESTIMONIAL_DETAIL_DELETED": "Testimonial Detail Deleted Successfully",
+	"PHOTO_ADDED": "Photo Added Successfully",
+	"GET_TESTIMONIAL_PHOTOS_SUCCESSFULLY": "Get Testimonial Photos Successfully",
+	"PHOTO_DELETED": "Photo Deleted"
+}

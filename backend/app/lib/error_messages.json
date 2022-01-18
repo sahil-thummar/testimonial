@@ -1,0 +1,9 @@
+{
+	"FAILED_TO_ADD_TESTIMONIAL": "Failed To Add Testimonial",
+	"FAILED_TO_GET_TESTIMONIAL_LIST": "Failed To Get Testimonial List",
+	"FAILED_TO_GET_TESTIMONIAL_DETAIL": "Failed To Get Testimonial Detail",
+	"NO_TESTIMONIAL_FOUND": "No Testimonial Found",
+	"FAILED_TO_UPDATE_TESTIMONIAL_DETAIL": "Failed To Update Testimonial Detail",
+	"FAILED_TO_DELETE_TESTIMONIAL_DETAIL": "Failed To Delete Testimonial Detail",
+	"PHOTO_REQUIRED": "Photo Required"
+}
